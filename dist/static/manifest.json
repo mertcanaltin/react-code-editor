@@ -1,0 +1,11 @@
+{
+	"manifest_version": 1,
+	"name": "insider-case",
+	"version": "1.0.0",
+	"description": "insider pen case",
+	"browser_action": {
+		"default_icon": "images/icon.png"
+	},
+	"devtools_page": "index.html",
+	"content_security_policy": "script-src 'unsafe-inline'; object-src 'self';"
+}
