@@ -1,15 +1,25 @@
 # react-code-editor
+## Install
 
-Install
-This project uses node and npm. Go check them out if you don't have them locally installed.
+This project uses [node](http://nodejs.org) and [npm](https://npmjs.com). Go check them out if you don't have them locally installed.
+
+```sh
 
 $ git clone https://github.com/mertcanaltin/react-code-editor.git
-Usage
+
+```
+
+## Usage
+
+```sh
+
 $ npm install
 
 $ npm run dev
 
-Related
-React
-CodeMirror
-Bulma.css
+```
+## Related
+
+-   [React](https://reactjs.org/)
+-   [CodeMirror](http://codemirror.com)
+-   [Bulma.css](https://bulma.io/)
